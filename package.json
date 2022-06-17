@@ -1,0 +1,29 @@
+{
+  "name": "@prashantvermaiitb/cmdline-package-example",
+  "version": "1.0.0",
+  "description": "sample command line package to see how that can be published and executed without install.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashantvermaiiitb/cmdline-package-example.git"
+  },
+  "keywords": [
+    "sample",
+    "command",
+    "line",
+    "package",
+    "example",
+    "run",
+    "without",
+    "install"
+  ],
+  "author": "prashantvermaiiitb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashantvermaiiitb/cmdline-package-example/issues"
+  },
+  "homepage": "https://github.com/prashantvermaiiitb/cmdline-package-example#readme"
+}
