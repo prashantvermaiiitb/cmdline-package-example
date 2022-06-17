@@ -1,5 +1,5 @@
 {
-  "name": "@prashantvermaiitb/cmdline-package-example",
+  "name": "@prashantvermaiiitb/cmdline-package-example",
   "version": "1.0.0",
   "description": "sample command line package to see how that can be published and executed without install.",
   "main": "src/index.js",
