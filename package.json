@@ -1,6 +1,6 @@
 {
   "name": "@prashantvermaiiitb/cmdline-package-example",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "sample command line package to see how that can be published and executed without install.",
   "main": "src/index.js",
   "bin": "src/index.js",
